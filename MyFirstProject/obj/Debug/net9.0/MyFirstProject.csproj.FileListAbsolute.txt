@@ -1,0 +1,14 @@
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/bin/Debug/net9.0/MyFirstProject
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/bin/Debug/net9.0/MyFirstProject.deps.json
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/bin/Debug/net9.0/MyFirstProject.runtimeconfig.json
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/bin/Debug/net9.0/MyFirstProject.dll
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/bin/Debug/net9.0/MyFirstProject.pdb
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfo.cs
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.dll
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/refint/MyFirstProject.dll
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
