@@ -12,3 +12,4 @@
 /Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
 /Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
 /Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
+/Users/michalszczepanski/Desktop/FirstC#/MyFirstProject/obj/Debug/net9.0/MyFirstProject.sourcelink.json
