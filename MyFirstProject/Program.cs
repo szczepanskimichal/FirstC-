@@ -1,14 +1,37 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+
 Console.WriteLine("Hello, Bruker! skriv inn brukernavnet ditt og fortsett med å trykke enter.");
 
-var input = Console.ReadLine();
-Console.WriteLine($"Your name: {input}");
-Console.WriteLine("Takk for at du skrev inn navnet ditt!");
+var input = Console.ReadLine(); // Read user input
+Console.WriteLine($"Your name: {input}"); // Output the name
+
+var component = new MyComponent();
+if (!string.IsNullOrEmpty(input))
+{
+	component.GreetUser(input); // Call the GreetUser method
+}
+else
+{
+	Console.WriteLine("Invalid input. Please restart the program and enter a valid name.");
+}
+
+Console.WriteLine("let´s add two numbers. Enter the first number:");
+var firstInput = Console.ReadLine();
+if (!int.TryParse(firstInput, out var firstNumber))
+{
+	Console.WriteLine("Invalid input. Please restart the program and enter a valid number.");
+	return;
+}
+
+Console.WriteLine("Enter the second number:");
+var secondInput = Console.ReadLine();
+if (!int.TryParse(secondInput, out var secondNumber))
+{
+	Console.WriteLine("Invalid input. Please restart the program and enter a valid number.");
+	return;
+}
+
+int result = component.Add(firstNumber, secondNumber); // Call the Add method
+Console.WriteLine($"The sum of {firstNumber} and {secondNumber} is: {result}"); // Output the result
+
 Console.WriteLine("Press any key to exit...");
-Console.ReadKey();
-// This is a simple C# console application that prompts the user for input and then displays it back to them.
-// It also waits for a key press before exiting, allowing the user to see the output before the console window closes.
-// The program uses the Console class to read input from the user and write output to the console.
-// The first line writes "Hello, World!" to the console.
-// The second line reads a line of input from the user and stores it in the variable 'input'.
-// The third line writes the input back to the console, prefixed with "You entered: ".
